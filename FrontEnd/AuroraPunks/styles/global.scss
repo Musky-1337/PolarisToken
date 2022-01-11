@@ -1,0 +1,35 @@
+html,
+body {
+  padding: 0;
+  margin: 0;
+
+  // Color
+  color: white;
+  background-color:#000;
+  background-image: url('../public/bg1.jpg');
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+
+
+
+
+  background-attachment:fixed;
+  background-size: cover;
+  // Text
+  font-family: 'Open Sans', sans-serif;
+}
+
+a {
+  text-decoration: none;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-weight: normal;
+}
