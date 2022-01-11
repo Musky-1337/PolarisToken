@@ -1,11 +1,6 @@
-# Loot
+# AuroraPunks
 
-Community-operated [website](https://www.lootproject.com/) for the Loot project.
-
-## Contribute
-
-- Update FAQ in `/pages/faq.tsx`
-- Update Resources in `/utils/lists.ts`
+NFT Collection based on Larvalabs' original.
 
 ## Run locally
 
